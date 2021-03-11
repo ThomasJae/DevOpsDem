@@ -4,3 +4,4 @@ My next change
 Another change
 My first project build
 Forgot bin
+maven clean install
